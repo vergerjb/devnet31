@@ -1,0 +1,2 @@
+var user="myuser"
+var passwd="mypasswd"
